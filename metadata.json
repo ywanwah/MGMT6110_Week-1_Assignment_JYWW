@@ -1,0 +1,6 @@
+{
+  "name": "Sovereign Executive Wealth",
+  "description": "Institutional Private Wealth Management and Relationship Manager advisory radar, portfolio optimization, and cross-sell intelligence portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
